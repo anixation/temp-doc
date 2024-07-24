@@ -1,0 +1,31 @@
+Slide 1: Title Slide
+ Title: Replacing react-scripts with Manual Webpack and Jest Configuration
+
+Slide 2: Introduction to react-scripts
+ Overview of react-scripts and its purpose
+ Limitations or challenges faced with react-scripts
+ 
+Slide 3: Benefits of Manual Configuration
+ Advantages of manual Webpack and Jest configuration
+ Flexibility, customization, and performance improvements
+
+Slide 4: Setting Up Webpack
+ Steps to set up Webpack manually
+ Key configurations (webpack.config.js, loaders, plugins)
+
+Slide 5: Customizing Webpack
+ How to customize Webpack for specific project needs
+ Examples of common customizations (e.g., CSS preprocessing, asset management)
+ Sub Slides 5.*: Entry, Output, Module rules, plugins, dev-server, production optimization
+
+Slide 6: Introduction to Jest
+ Overview of Jest and its importance in testing React applications
+ Benefits of using Jest for testing
+
+Slide 7: Setting Up Jest
+ Steps to set up Jest manually
+ Configuration options (jest.config.js)
+
+Slide 8: Conclusion
+ Summary of key points covered
+ Final thoughts on transitioning from react-scripts to manual setup
